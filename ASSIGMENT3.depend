@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621956101 source:c:\users\bluei\desktop\assigment3\main.c
+	<stdio.h>
+	<stdlib.h>
+
